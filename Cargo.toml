@@ -2,6 +2,11 @@
 name = "bevy_write_after"
 version = "0.17.0"
 edition = "2024"
+repository = "https://github.com/debris/bevy_write_after"
+documentation = "https://docs.rs/bevy_write_after"
+description = "Bevy plugin to send messages after delay."
+keywords = ["bevy", "engine", "message", "game", "plugin"]
+
 
 [dependencies]
 bevy = "0.17.2"

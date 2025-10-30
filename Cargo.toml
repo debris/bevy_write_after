@@ -2,6 +2,7 @@
 name = "bevy_write_after"
 version = "0.17.0"
 edition = "2024"
+license = "CC0-1.0"
 repository = "https://github.com/debris/bevy_write_after"
 documentation = "https://docs.rs/bevy_write_after"
 description = "Bevy plugin to send messages after delay."

@@ -1,0 +1,7 @@
+[package]
+name = "bevy_write_after"
+version = "0.17.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.17.2"

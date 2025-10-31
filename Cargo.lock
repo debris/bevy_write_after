@@ -1512,7 +1512,7 @@ dependencies = [
 
 [[package]]
 name = "bevy_write_after"
-version = "0.17.0"
+version = "0.17.1"
 dependencies = [
  "bevy",
 ]
